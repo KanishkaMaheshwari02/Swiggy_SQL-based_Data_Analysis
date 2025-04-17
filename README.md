@@ -1,5 +1,6 @@
 # Swiggy_SQL_based_Data_Analysis
 Implemented sophisticated SQL queries with intricate joins for in-depth analysis and strategic decision-making.
+
 [Click here to view the entire presentation](https://github.com/KanishkaMaheshwari02/Swiggy_SQL_based_Data_Analysis/blob/main/Swiggy%20(SQL-based%20Data%20Analysis)%20Project%20by%20Kanishka%20Maheshwari.pdf)
 
 ![Screenshot (380)](https://github.com/user-attachments/assets/43100eda-b961-4ac9-968f-04643c547962)
