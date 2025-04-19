@@ -2,7 +2,7 @@
 Implemented sophisticated SQL queries with intricate joins for in-depth analysis and strategic decision-making.
 Features both observations and strategic recommendations.
 
-Skills: MySQL · Microsoft PowerPoint · Canva · Programming with SQL
+Skills: MySQL · Microsoft PowerPoint · Canva · Advanced SQL
 
 [Click here to view the entire presentation](https://github.com/KanishkaMaheshwari02/Swiggy_SQL_based_Data_Analysis/blob/main/Swiggy%20(SQL-based%20Data%20Analysis)%20Project%20by%20Kanishka%20Maheshwari.pdf)
 ---
